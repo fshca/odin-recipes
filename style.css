@@ -1,0 +1,21 @@
+body {
+	font-family: Alice, Roboto, sans-serif;
+	text-align: center;
+	box-sizing: border-box;
+	border: 5px;
+	padding: 5px;
+	margin: 5px;
+	background: azure;
+}
+
+ul,
+ol {
+	padding: 0% 5%;
+	text-align: left;
+}
+
+h1,
+h2,
+h3 {
+	font-family: "Times New Roman", serif;
+}
