@@ -2,11 +2,16 @@
 
 This is a simple recipes website, written in html.
 
-Attributions:
-Image "recipes.jpg" downloaded from "https://www.pexels.com/@ella-olsson-572949/"
+You can find it [here](https://fshca.github.io/odin-recipes/).
 
-Image "salad.jpg" downloaded from "https://www.pexels.com/@senzi-msomi-499460132/".
+## Thanks to:
+* [Ella Olsson](https://www.pexels.com/@ella-olsson-572949/) for 
+"recipes.jpg".
 
-Image "chicken-and-rice.jpg" downloaded from "https://www.pexels.com/@jefferson-coutinho-3427083/"
+* [Senzi Msomi](https://www.pexels.com/@senzi-msomi-499460132/) for 
+"salad.jpg".
 
-Image "omellete.jpg" downloaded from "https://www.pexels.com/@enginakyurt/"
+* [Jefferson Coutinho](https://www.pexels.com/@jefferson-coutinho-3427083/) 
+for "chicken-and-rice.jpg".
+
+* [Enginakyurt](https://www.pexels.com/@enginakyurt/) for "omellete.jpg". 
